@@ -1,0 +1,50 @@
+{
+	"position": [
+		-370,
+		-400
+	],
+	"dialogue_pos": "left",
+	"scale": 0.549999999999999,
+	"image": "johnknee",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				-1,
+				-11
+			],
+			"anim": "talk",
+			"idle_name": "johnknee fear0",
+			"loop_name": "johnknee fear talk"
+		},
+		{
+			"loop_name": "johnknee pain",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "johnknee pain",
+			"anim": "pain",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "johnknee scream",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "johnknee scream",
+			"anim": "scream",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

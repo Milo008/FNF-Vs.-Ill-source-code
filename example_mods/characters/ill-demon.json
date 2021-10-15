@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				421,
+				279
+			],
+			"anim": "singUP",
+			"fps": 18,
+			"name": "ill-demon sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				521,
+				290
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "ill-demon sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				329,
+				290
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "ill-demon sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				411,
+				269
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "ill-demon sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				421,
+				272
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "ill-demon idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ill-demon",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "ill",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.61
+}

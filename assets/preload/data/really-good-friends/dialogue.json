@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ight where are we now"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "idk man, it's white all over"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "huh"
+		},
+		{
+			"speed": 0.14,
+			"portrait": "ill",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "JOHNKNEE. . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "UH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "WHO THE FUCK WAS THAT"
+		},
+		{
+			"speed": 0.005,
+			"portrait": "ill",
+			"boxState": "angry",
+			"expression": "happy",
+			"text": "JOHNKNEE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "OH SHIT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ill",
+			"boxState": "normal",
+			"expression": "sus",
+			"text": "Wait you're not Johnknee"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no i'm Boyfriend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ill",
+			"boxState": "normal",
+			"expression": "sus",
+			"text": "bruh what name is that"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok so where are we"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ill",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh uh idk actually"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ill",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uh ok "
+		}
+	]
+}

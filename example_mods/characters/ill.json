@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				481,
+				200
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "idle",
+			"loop": false,
+			"name": "ill idle"
+		},
+		{
+			"offsets": [
+				481,
+				200
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ill sing up"
+		},
+		{
+			"offsets": [
+				511,
+				200
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ill sing left"
+		},
+		{
+			"offsets": [
+				469,
+				190
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ill sing right"
+		},
+		{
+			"offsets": [
+				481,
+				199
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ill sing down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ill",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "ill",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.51
+}

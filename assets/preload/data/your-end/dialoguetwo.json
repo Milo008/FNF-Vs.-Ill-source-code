@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "uh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ill",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "how."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ill",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "IS THIS FUCKING POSSIBLE?!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ill",
+			"boxState": "normal",
+			"expression": "sus",
+			"text": "i need to get away from this shit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ight"
+		}
+	]
+}

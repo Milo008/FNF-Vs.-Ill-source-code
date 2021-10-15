@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		100,
+		50
+	],
+	"scale": 1.8,
+	"animations": [
+		{
+			"loop_name": "ill happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ill happy0",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ill sus",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ill sus0",
+			"anim": "sus",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ill angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ill angry0",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "ill"
+}

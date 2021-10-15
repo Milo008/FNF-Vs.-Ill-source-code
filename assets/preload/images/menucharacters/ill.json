@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Ill Idle",
+	"image": "M Ill",
+	"position": [
+		566,
+		437
+	],
+	"scale": 0.25,
+	"confirm_anim": "M Dad Idle"
+}

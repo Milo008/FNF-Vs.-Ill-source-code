@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"expression": "sus",
+			"text": "lost again what",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "excited",
+			"text": "pog",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sus",
+			"text": "wait a minute...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "angry",
+			"text": "JOHNKNEE!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "talk",
+			"text": "oh no",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "johnknee"
+		},
+		{
+			"expression": "angry",
+			"text": "why didn't you cheer for me, Johnknee",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "talk",
+			"text": "uhh ",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "johnknee"
+		},
+		{
+			"expression": "angry",
+			"text": "WHY YOu DIDN'T CHEER FOR ME JOHNKNEE?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "confused",
+			"text": "shit's getting real",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "yea ig",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "angry",
+			"text": "goodBYE, Johnknee",
+			"boxState": "normal",
+			"speed": 0.2,
+			"portrait": "ill"
+		},
+		{
+			"expression": "pain",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "johnknee"
+		},
+		{
+			"expression": "scream",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\nAAAAAAAAAAAA",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "johnknee"
+		},
+		{
+			"expression": "shocked",
+			"text": "HOLY SHIT WHAT DID YOU DO",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "he's gone",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "confused",
+			"text": "what",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "wanna see me do it AGAIN?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "shocked",
+			"text": "oh FUCK NO",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "WHAT",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "shocked",
+			"text": "oh nononononono pls nooooooooooo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "goodbye, Boyfriend.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "shocked",
+			"text": "oh no",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "IM GOING TO FUCKING TRANSFORM AAAA-",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "ill"
+		}
+	]
+}

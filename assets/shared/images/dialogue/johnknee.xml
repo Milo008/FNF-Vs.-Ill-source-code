@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="johnknee.png"><SubTexture name="johnknee fear0000" x="0" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="johnknee fear talk0000" x="1284" y="0" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="johnknee fear talk0001" x="0" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="johnknee pain0000" x="1284" y="1284" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+<SubTexture name="johnknee scream0000" x="0" y="2568" width="1284" height="1284" frameX="0" frameY="0" frameWidth="1284" frameHeight="1284" />
+</TextureAtlas>

@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "angry",
+			"text": "JOHNKNEE!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "confused",
+			"text": "uhm",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "JOHKNEE WHERE THE FUCK ARE YOU",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "talk",
+			"text": "a",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "johnknee"
+		},
+		{
+			"expression": "sus",
+			"text": "boi go get your ass over there and cheer for me",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "talk",
+			"text": "while i try to beat them again :p",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "confused",
+			"text": "WAIT WHAT",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "bro i never said anything ab-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "GET THAT FUCKING MIC UNDER THAT \\nSHITTY MOUTH BEFORE I SHOVE IT IN THERE",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "ill"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "rap battle :)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "ill"
+		},
+		{
+			"expression": "talk",
+			"text": "k",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}
